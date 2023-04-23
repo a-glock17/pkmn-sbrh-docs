@@ -5,4 +5,4 @@ I am **NOT** the owner of Pokémon Sapphire, The Pokémon Company, Creatures Inc
 
 I **WILL NOT** provide links to software that allows patching of ROMs. If there are any concerns you have, direct them to my [Twitter Account](https://twitter.com/saph_spl). All documented changes, such as: stat changes, moveset changes, trainer team changes, map changes, etc. will be recorded into one of the following files: "PokemonStatChanges.md", "WildEncounterTable.md", "MapData.md", "GymLeaders.md", "RegionTrainers.md", "MiscDataChanges.md".
 
-Documentation will be finished *BEFORE* the actual modifications are made to a legally sourced ROM.
+Documentation will be finished *BEFORE* the actual modifications are made to a legally sourced ROM. The Pokédex will only include Pokémon #0001 to #0386 as these are the only Pokémon available in Pokémon Ruby/Sapphire/Emerald.
