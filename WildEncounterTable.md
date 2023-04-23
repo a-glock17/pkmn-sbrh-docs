@@ -4,6 +4,8 @@ The following tables are the encounters for every route and city where encounter
 
 Routes are done first, then cities and towns, then other misc locations like forests and mountain areas.
 
+* = If you see this asterisk, it means the location has encounters but it can't be reached by legitimate play.
+
 -----
 ### Route 10 (In Grass)
 | Pokémon Name | Level Range | Encounter Rate |
@@ -54,14 +56,56 @@ Routes are done first, then cities and towns, then other misc locations like for
 | Machop | 7 | 1% |
 
 -----
-### Route 11 (Fishing / Surfing
+### Route 11 (Fishing / Surfing)
 
 | Pokémon Name | Level Range | Encounter Rate | Fishing Rod | 
 | ------------ | ----------- | -------------- | ----------- |
 | N/A | N/A | N/A | N/A |
 
 -----
-### 
+### Route 12 (Grass)
+| Pokémon Name | Level Range | Encounter Rate | 
+| ------------ | ----------- | -------------- |
+| Caterpie | 3 - 5 | 25% |
+| Weedle | 3 - 6 | 20% |
+| Pichu | 4 - 7 | 15% |
+| Pikachu | 5 - 7 | 15% |
+| Wingull | 4 - 7 | 15% |
+| Metapod | 7 | 5% |
+| Kakuna | 7 | 5% |
+
+-----
+### Route 12 (Fishing / Surfing)*
+| Pokémon Name | Level Range | Encounter Rate | Fishing Rod | 
+| ------------ | ----------- | -------------- | ----------- |
+| Magikarp | 100 | 100% | Good / Super / Surf |
+
+-----
+### Route 13 (Grass)
+| Pokémon Name | Level Range | Encounter Rate | 
+| ------------ | ----------- | -------------- |
+| Pikachu | 6 - 9 | 25% |
+| Electrike | 7 - 11 | 25% |
+| Wingull | 6 - 12 | 20% |
+| Butterfree | 10 - 11 | 10% |
+| Beedrill | 10  11 | 10% |
+| Squirtle | 11 - 12 | 9% |
+| Charmander | 12 | 1% |
+
+-----
+### Route 13 (Fishing)
+| Pokémon Name | Level Range | Encounter Rate | Fishing Rod | 
+| ------------ | ----------- | -------------- | ----------- |
+| Tentacool | 10 - 11 | 80% | Good |
+| Squirtle | 10 - 12 | 15% | Good |
+| Mudkip | 13 | 5% | Good |
+| Tentacruel | 37 - 40 | 60% | Super |
+| Blastoise | 36 - 39 | 30% | Super |
+| Marshtomp | 35 - 40 | 9% | Super |
+| Swampert | 41 | 1% | Super |
+
+-----
+
 
 
 
