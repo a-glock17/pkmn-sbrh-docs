@@ -4,7 +4,8 @@ The following tables are the encounters for every route and city where encounter
 
 Routes are done first, then cities and towns, then other misc locations like forests and mountain areas.
 
-* = If you see this asterisk, it means the location has encounters but it can't be reached by legitimate play.
+* If you see an asterisk, it means the location has encounters but it can't be reached by legitimate play.
+* If you see two astrisks, it means the location doesn't allow that table of encounters.
 
 -----
 ### Route 10 (In Grass)
@@ -105,6 +106,38 @@ Routes are done first, then cities and towns, then other misc locations like for
 | Swampert | 41 | 1% | Super |
 
 -----
+
+### Route 14 (Grass)**
+| Pokémon Name | Level Range | Encounter Rate | 
+| ------------ | ----------- | -------------- |
+| Bulbasaur | 1 | 100% |
+
+-----
+
+###Route 14 (Fishing)
+| Pokémon Name | Level Range | Encounter Rate | Fishing Rod | 
+| ------------ | ----------- | -------------- | ----------- |
+| Krabby | 12 - 14 | 70% | Good |
+| Mudkip | 11 - 13 | 10% | Good |
+| Magikarp | 10 - 14 | 10% | Good |
+| Squirtle | 11 - 13 | 9% | Good | 
+| Marshtomp | 15 | 1% | Good |
+| Kingler | 36 - 42 | 45% | Super |
+| Gyarados | 34 - 39 | 20% | Super |
+| Seel | 35 - 37 | 15% | Super |
+| Barboach | 36 - 40 | 15% | Super |
+
+-----
+
+Route 14 (Surfing)
+| Pokémon Name | Level Range | Encounter Rate | 
+| ------------ | ----------- | -------------- |
+
+
+
+
+
+
 
 
 
