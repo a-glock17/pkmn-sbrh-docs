@@ -114,7 +114,7 @@ Routes are done first, then cities and towns, then other misc locations like for
 
 -----
 
-###Route 14 (Fishing)
+### Route 14 (Fishing)
 | Pokémon Name | Level Range | Encounter Rate | Fishing Rod | 
 | ------------ | ----------- | -------------- | ----------- |
 | Krabby | 12 - 14 | 70% | Good |
@@ -129,7 +129,7 @@ Routes are done first, then cities and towns, then other misc locations like for
 
 -----
 
-Route 14 (Surfing)
+### Route 14 (Surfing)
 | Pokémon Name | Level Range | Encounter Rate | 
 | ------------ | ----------- | -------------- |
 
