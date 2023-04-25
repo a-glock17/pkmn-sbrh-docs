@@ -11,4 +11,4 @@ This list will be modified as needed, updates will be written below the checklis
 - [ ] Change Title Screen
 - [ ] Ensure All Encounters Work
 - [ ] Change Palettes
-- [ ] Add PKMN_Data And MapData
+- [x] Add PKMN_Data And MapData
