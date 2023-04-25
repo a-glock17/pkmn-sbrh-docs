@@ -8,3 +8,7 @@ I **WILL NOT** provide links to software that allows patching of ROMs. If there 
 Documentation will be finished *BEFORE* the actual modifications are made to a legally sourced ROM. The Pokédex will only include Pokémon #0001 to #0386 as these are the only Pokémon available in Pokémon Ruby/Sapphire/Emerald.
 
 To have a visual of the new map, go to *./MapData/*. To have a visual of every Pokémons new stats and abilities, go to *./PKMN_Data/*. Pokémon stat data has been taken in Pokémon Black and uploaded to this GitHub repositroy.
+
+-----
+
+## Warning! Game Spoilers Ahead!
