@@ -16,3 +16,9 @@ Level curve is as follows:
 * Champion -> lvl. 77
 
 This is a *typical* curve in the sense that it doesn't ramp up incredibly quickly like other ROM hacks. This was my goal as I wanted a Nintendo-feeling curve whiile keeping the games difficult for non-pro players. A possible *Expert Mode* may be included which will boost these levels up dramatically. Updates coming in the far future. (Hopefully)
+
+-----
+
+### Fishing Info
+
+Player does not get access to Good Rod until after the first gym. Super Rod is locked until the 4th Gym. Old Rod is still in he files bu is unused an all encountes with it would be vanilla Sapphire. (if a player mods it in)
