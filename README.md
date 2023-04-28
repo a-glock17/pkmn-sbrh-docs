@@ -11,4 +11,4 @@ To have a visual of the new map, go to *./MapData/*. To have a visual of every P
 
 -----
 
-## Warning! Game Spoilers Ahead!
+## Warning! Game Spoilers Ahead !
