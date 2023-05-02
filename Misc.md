@@ -1,7 +1,7 @@
 ## Misc Info
 
 Level curve is as follows:
-* Gym #1 -> lvl. 14
+* Gym #1 -> lvl. 15
 * Gym #2 -> lvl. 22
 * Gym #3 -> lvl. 29
 * Gym #4 -> lvl. 35
