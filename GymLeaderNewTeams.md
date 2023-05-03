@@ -12,4 +12,4 @@ Only the types they use and their teams are made, everything else is up in the a
 
 -----
 
-# 2
+# 2 Normal Type
